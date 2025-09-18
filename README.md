@@ -48,6 +48,10 @@ By combining **NFTs + blockchain transparency**, we aim to make library borrowin
 - **Blockchain:** Aptos  
 - **Language:** Move  
 - **Storage:** On-chain NFT metadata  
-- **Actors:** Library (Admin), Students (Borrowers)  
+- **Actors:** Library (Admin), Students (Borrowers)
+
+- Transaction Hash:0xb32703a0d62a4c8e7c07674ff2555b3126a27f5cfbbfe0b3418796f5bd99394d
+- <img width="1920" height="1080" alt="2025-09-18" src="https://github.com/user-attachments/assets/abd7b8ba-8312-4ddb-96bf-9c94b7905b99" />
+
 
 ---
