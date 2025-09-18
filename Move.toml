@@ -1,0 +1,15 @@
+[package]
+name = "library-blockchain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Library="0xd88cf7d823eb2df8592ca89dfc072da08fc132d6517876b399205f739ab8034a"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
